@@ -1,5 +1,5 @@
 # Ing.software
-ingeniería  de software jojojo
+ingeniería  de software 
 
 Prototipo Usuarios V1
 https://app.moqups.com/IJqKkJ6Zg0RFocecFa1lsLGiRjsVAfrv
